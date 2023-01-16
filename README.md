@@ -13,3 +13,4 @@ HABERSPOR.SQL dosyasını PHPMYADMIN içerisinde çalıştırınız.
   <br>
   *Şifre:* 123456
 
+<br><br>NOT: giris.php'de kullanıcı ve yönetici olarak uygulamaya giriş ekranları mevcuttur. Giriş yapmadan da Haber Portalına erişebilmek için anasayfa.php kullanılmalıdır.
